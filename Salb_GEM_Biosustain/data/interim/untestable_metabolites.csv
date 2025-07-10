@@ -1,0 +1,68 @@
+﻿bigg,name,seed_matches,mnxm_matches,source,ignore,notes
+2hbut,2 Hydroxybutyrate C4H7O3,cpd03561,MNXM722772,,,
+2obut,2-Oxobutanoate,cpd00094,MNXM159,,,
+2pg,D-Glycerate 2-phosphate,cpd00482,MNXM275,,,
+2pglyc,2-Phosphoglycolate,cpd00727,MNXM2074,,,
+35cgmp,"3',5'-Cyclic GMP",cpd00697,MNXM665,,,
+3hoxpac,3 Hydroxyphenylacetic acid C8H8O3,cpd03320,MNXM1639,,,
+3pg,3-Phospho-D-glycerate,cpd00169,MNXM126,,,
+5aptn,5-Aminopentanoate,cpd00339,MNXM792,,,
+6ax,6-Aminohexanoate,cpd01588,MNXM2339,,,
+6pgc,6-Phospho-D-gluconate,cpd00284,MNXM325,,,
+acgal,N-Acetyl-D-galactosamine,cpd00832; cpd27607,MNXM395,,,
+acgam,N-Acetyl-D-glucosamine,cpd00122; cpd27608,MNXM143,,,
+acmana,N-Acetyl-D-mannosamine,cpd00492,MNXM2403,,,
+ad,Acetamide,cpd03734,MNXM4428,,,
+agm,Agmatine,cpd00152,MNXM328,,,
+ala_L_asp__L,Ala L asp L C7H11N2O5,cpd11593,MNXM40494,,TRUE,peptide
+ala_L_gln__L,Ala Gln C8H15N3O4,cpd11587,MNXM40495,,TRUE,peptide
+ala_L_his__L,Ala His C9H14N4O3,,MNXM163729,,TRUE,peptide
+ala_L_leu__L,Ala Leu C9H18N2O3,cpd11583,MNXM15786,,TRUE,peptide
+ala_L_thr__L,Ala-L-Thr-L,,,,TRUE,peptide
+alltn,Allantoin,cpd01092,MNXM612,,,
+amp2p,Adenosine 2  phosphate C10H14N5O7P,,MNXM148862,,,
+arab__D,D Arabinose C5H10O5,cpd00185,MNXM544,,,
+arbt,Arbutin C12H16O7,cpd03696,MNXM2683,,,
+argp,L Arginine phosphate C6H14N4O5P,cpd03535,MNXM3663,,,
+asn__D,D Asparagine,,,,,
+but,Butyrate (n-C4:0),,MNXM162281,,,
+camp,CAMP C10H11N5O6P,cpd00446,MNXM243,,,
+cbp,Carbamoyl phosphate,cpd00146,MNXM138,,,
+CE0074,Alloxan,,MNXM15828,,,
+cholp,Choline phosphate C5H13NO4P,cpd00457,MNXM229,,,
+citr__L,L-Citrulline,cpd00274,MNXM211,,,
+dextrin,Dextrin C12H20O10,cpd11594,MNXM49265,,TRUE,macromolecule
+ethamp,Ethanolamine phosphate C2H7NO4P,cpd00285,MNXM187,,,
+frmd,Formamide,cpd00378,MNXM1231,,,
+g1p,D-Glucose 1-phosphate,cpd00089; cpd28817,MNXM89588,,,
+g6p,D-Glucose 6-phosphate,cpd00079; cpd26836,MNXM160,,,
+gam,D-Glucosamine,cpd00276; cpd01247; cpd27103,MNXM533,,,
+gam6p,D-Glucosamine 6-phosphate,cpd00288,MNXM370,,,
+glx,Glyoxylate,cpd00040,MNXM69,,,
+gly_asn__L,Gly asn L C6H11N3O4,cpd11581,MNXM8664,,TRUE,peptide
+gly_gln__L,Gly Gln C7H13N3O4,cpd11580,MNXM55276,,TRUE,peptide
+gly_glu__L,Gly glu L C7H11N2O5,cpd11592,MNXM8667,,TRUE,peptide
+gly_met__L,Gly Met C7H14N2O3S,cpd11591,MNXM55287,,TRUE,peptide
+glyc2p,Glycerol 2-phosphate,cpd01908,MNXM2527,,,
+glycogen,Glycogen C6H10O5,cpd00155; cpd27186,MNXM55375,,TRUE,macromolecule
+hxa,Hexanoate (n-C6:0),cpd01113,MNXM1653,,,
+mal__D,D-Malate,cpd00386,MNXM1608,,,
+malon,Malonate,cpd00308; cpd12000; cpd12448,MNXM477,,,
+man1p,D-Mannose 1-phosphate,cpd00485,MNXM721,,,
+man6p,D-Mannose 6-phosphate,cpd00235,MNXM427,,,
+mbdg,Beta Methylglucoside C7H14O6,cpd15585,MNXM10816,,,
+minohp,Myo-Inositol hexakisphosphate,cpd00885,MNXM491,,,
+pcreat,Phosphocreatine,,MNXM91273,,,
+peamn,Phenethylamine,cpd03161,MNXM660,,,
+pep,Phosphoenolpyruvate,cpd00061,MNXM73,,,
+ppi,Diphosphate,cpd00012; cpd27828,MNXM11,P,TRUE,is ppi or pppi stable in solution?
+pppi,Inorganic triphosphate,cpd00421; cpd11672,MNXM332,P,TRUE,is ppi or pppi stable in solution?
+pser__D,D-O-Phosphoserine,cpd01665,MNXM4752,,,
+pser__L,O-Phospho-L-serine,cpd00738,MNXM379,,,
+salcn,Salicin C13H18O7,cpd01030,MNXM2561,,,
+thrp,L-Threonine O-3-phosphate,cpd08928,MNXM1492,,,
+tmp,Trimetaphosphate P3O9,,MNXM87343,,,
+tym,Tyramine,cpd00374,MNXM603,,,
+tyrp,Phosphotyrosine,cpd03912,MNXM3323,,,
+urate,Urate C5H4N4O3,cpd00300,MNXM441,,,
+val__D,D Valine,,,,,
