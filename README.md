@@ -1,7 +1,6 @@
 # Salb-GEM-Biosustain Metabolic Model  
 **genome-scale metabolic model of _Streptomyces albus_ J1074**  
 
----
 
 ## Description  
 Salb-GEM-Biosustain is a genome-scale metabolic model (GEM) reconstructed for **_Streptomyces albus_ J1074**, based on original version of Salb-GEM and phenomics data from [DTU Biosustain](https://www.biosustain.dtu.dk/). This model enables in silico simulations of metabolic fluxes under diverse conditions, supporting applications in:  
@@ -9,7 +8,6 @@ Salb-GEM-Biosustain is a genome-scale metabolic model (GEM) reconstructed for **
 - 🧪 **Biotechnology** (strain engineering, substrate utilization)  
 - 🧠 **Basic research** (gene essentiality, metabolic pathway analysis)  
 
----
 
 ## Citation  
 If using XXX in publications, cite:  
@@ -17,7 +15,7 @@ If using XXX in publications, cite:
    > Author A. et al. (Year). *Title*. Journal. DOI: ...  
 2. **This specific model version**:  
    > [Repository Name]. (Year). Version X.X.X. Zenodo. [![DOI](https://zenodo.org/badge/DOI/...)](https://doi.org/...)  
----
+
 
 ## Model Overview  
 | Property               | Value       | Description                                  |  
@@ -30,7 +28,6 @@ If using XXX in publications, cite:
 | **Genes**              | 1405       |               |  
 
 
----
 
 ## Installation & Usage  
 ### Obtaining the Model  
@@ -44,7 +41,6 @@ from cobra.io import load_json_model
 model = load_json_model()  
 ```
 
----
 ## Model Files
 ```
 root
