@@ -20310,7 +20310,7 @@
 "name":"L-Glutaminyl-tRNA(Gln)",
 "compartment":"c",
 "charge":1,
-"formula":"C5H9N2O2R",
+"formula":"C20H29N7O12PR",
 "notes":{
 "CHARGE":"1",
 "FORMULA":"C5H9N2O2R",
@@ -36470,7 +36470,7 @@
 "name":"tRNA(Gln)",
 "compartment":"c",
 "charge":0,
-"formula":"R",
+"formula":"C15H20N5O10PR",
 "notes":{
 "CHARGE":"0",
 "FORMULA":"R",
@@ -41122,8 +41122,8 @@
 "id":"dnac_c",
 "name":"DNA cytosine",
 "compartment":"c",
-"charge":0,
-"formula":"C9H14N3O7P(C5H8O5PR)n(C5H8O5PR)n",
+"charge":-1,
+"formula":"R",
 "notes":{
 "CHARGE":"0",
 "FORMULA":"C9H14N3O7P(C5H8O5PR)n(C5H8O5PR)n",
@@ -41436,7 +41436,7 @@
 "name":"DNA 5-methylcytosine",
 "compartment":"c",
 "charge":0,
-"formula":"C10H16N3O7P(C5H8O5PR)n(C5H8O5PR)n",
+"formula":"CH3R",
 "notes":{
 "CHARGE":"0",
 "FORMULA":"C10H16N3O7P(C5H8O5PR)n(C5H8O5PR)n",
@@ -41452,8 +41452,8 @@
 "id":"asntrna_c",
 "name":"L-Asparaginyl-tRNA(Asn)",
 "compartment":"c",
-"charge":0,
-"formula":"C14H23N2O12PR2(C5H8O6PR)n",
+"charge":2,
+"formula":"C19H33N2O18P2",
 "notes":{
 "CHARGE":"0",
 "FORMULA":"C14H23N2O12PR2(C5H8O6PR)n",
@@ -41582,7 +41582,7 @@
 "name":"2-(alpha-Hydroxyethyl)thiamine diphosphate",
 "compartment":"c",
 "charge":1,
-"formula":"C14H23N4O8P2S+",
+"formula":"C14H23N4O8P2S",
 "notes":{
 "CHARGE":"0",
 "SBOTerm":"SBO:0000247"
@@ -41984,8 +41984,8 @@
 "id":"glutrna_gln_c",
 "name":"L-Glutamyl-tRNA(Gln)",
 "compartment":"c",
-"charge":0,
-"formula":"C20H28N6O13PR(C5H8O6PR)n",
+"charge":-1,
+"formula":"C20H26N6O13PR",
 "notes":{
 "CHARGE":"0",
 "FORMULA":"C20H28N6O13PR(C5H8O6PR)n",
@@ -42003,7 +42003,7 @@
 "name":"L-Aspartyl-tRNA(Asn)",
 "compartment":"c",
 "charge":0,
-"formula":"C14H22NO13PR2(C5H8O6PR)n",
+"formula":"C19H30NO19P2",
 "notes":{
 "CHARGE":"0",
 "FORMULA":"C14H22NO13PR2(C5H8O6PR)n",
@@ -42038,8 +42038,8 @@
 "id":"sertrna_sec_c",
 "name":"L-Seryl-tRNA(Sec)",
 "compartment":"c",
-"charge":0,
-"formula":"C13H22NO12PR2(C5H8O6PR)n",
+"charge":-2,
+"formula":"C18H28NO18P2",
 "notes":{
 "CHARGE":"0",
 "FORMULA":"C13H22NO12PR2(C5H8O6PR)n",
@@ -42060,7 +42060,7 @@
 "name":"L-Selenocysteinyl-tRNA(Sec)",
 "compartment":"c",
 "charge":0,
-"formula":"C13H22NO11PSeR2(C5H8O6PR)n",
+"formula":"C18H30NO17P2Se",
 "notes":{
 "CHARGE":"0",
 "FORMULA":"C13H22NO11PSeR2(C5H8O6PR)n",
