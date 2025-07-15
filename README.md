@@ -1,4 +1,4 @@
-# Salb-GEM-v1.1(Biosustain): Genome-scale metabolic model of _Streptomyces albus_ J1074**  
+# Salb-GEM-v1.1(Biosustain): Genome-scale metabolic model of _Streptomyces albus_ J1074
 
 
 ## Description  
