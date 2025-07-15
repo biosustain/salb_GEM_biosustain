@@ -1,9 +1,0 @@
-Reactor,Strain,Condition,Growth Rate,Caption
-R16,J1074,mnl,0.0402,J1074 Mannitol
-R17,J1074,mnl,0.2096,J1074 Mannitol
-R18,NBC1270,mnl,0.0803,NBC1270 Mannitol
-R19,NBC1270,mnl,0.1505,NBC1270 Mannitol
-R20,J1074,mnl_gly,0.1555,J1074 Mannitol + 0.1 Glycerol
-R21,J1074,mnl_gly,0.1794,J1074 Mannitol + 0.1 Glycerol
-R22,NBC1270,mnl_gly,0.2185,NBC1270 Mannitol + 0.1 Glycerol
-R23,NBC1270,mnl_gly,0.1893,NBC1270 Mannitol + 0.1 Glycerol
