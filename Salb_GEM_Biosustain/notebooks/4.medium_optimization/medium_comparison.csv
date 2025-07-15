@@ -1,0 +1,6 @@
+Medium,Reaction,Concentration,Growth
+Glycerol,EX_glyc_e,1.6,0.06304713056798508
+Mannitol,EX_mnl_e,0.8,0.055693848292827086
+Glucose,EX_glc__D_e,0.8,0.05216519898177352
+Glutamate+Glucose,EX_glu__L_e+EX_glc__D_e,0.88,0.04642939586557326
+Glutamate,EX_glu__L_e,0.96,0.04040795821770899

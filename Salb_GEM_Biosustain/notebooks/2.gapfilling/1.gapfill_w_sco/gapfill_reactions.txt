@@ -1,0 +1,60 @@
+Gapfilling arab__L, C-Source, carbohydrate with:
+DTDP26DGR, ARAI
+
+Gapfilling man, C-Source, carbohydrate with:
+HEX4, MANpts
+
+Gapfilling lyx__L, C-Source, carbohydrate with:
+FBA4, LYXI, KHK2, DTDP26DGR
+
+Gapfilling 5dglcn, C-Source, carboxylic acid with:
+5DGLCNR, DTDP26DGR
+
+Gapfilling met__L, C-Source, amino acid with:
+
+
+Gapfilling phe__L, C-Source, amino acid with:
+
+
+Gapfilling no2, N-Source, inorganic with:
+NO2t2r, DTDP26DGR
+
+Gapfilling arg__L, N-Source, amino acid with:
+CITRLt, EX_citr__L_e
+
+Gapfilling cys__L, N-Source, amino acid with:
+EX_h2s_e, H2St1
+
+Gapfilling lys__L, N-Source, amino acid with:
+APTNAT, DAPAT, PPRDNDH
+
+Gapfilling met__L, N-Source, amino acid with:
+GERDPM, ACONIs, H2St1, DTDP26DGR, 2METBOD, EX_h2s_e, DM_2mborn_c
+
+Gapfilling phe__L, N-Source, amino acid with:
+PPYRDC, PHYCBOXL
+
+Gapfilling tyr__L, N-Source, amino acid with:
+MACACI
+
+Gapfilling hom__L, N-Source, amino acid with:
+
+
+Gapfilling etha, N-Source, other with:
+ETHAAL
+
+Gapfilling thym, N-Source, other with:
+
+
+Gapfilling thymd, N-Source, other with:
+
+
+Gapfilling ura, N-Source, other with:
+
+
+Gapfilling uri, N-Source, other with:
+
+
+Gapfilling glyc3p, P-Source, organic with:
+
+

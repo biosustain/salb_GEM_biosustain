@@ -1,0 +1,201 @@
+Gapfilling 2hbut, C-Source, carboxylic acid with:
+
+
+Gapfilling 2obut, C-Source, carboxylic acid with:
+
+
+Gapfilling 2pg, P-Source, organic with:
+
+
+Gapfilling 2pglyc, P-Source, organic with:
+
+
+Gapfilling 35cgmp, P-Source, organic with:
+
+
+Gapfilling 35cgmp, P-Source, organic with:
+
+
+Gapfilling 3hoxpac, C-Source, carboxylic acid with:
+
+
+Gapfilling 3pg, P-Source, organic with:
+
+
+Gapfilling 5aptn, C-Source, carboxylic acid with:
+
+
+Gapfilling 5aptn, N-Source, other with:
+
+
+Gapfilling 6ax, N-Source, other with:
+
+
+Gapfilling 6pgc, P-Source, organic with:
+
+
+Gapfilling acgal, C-Source, carbohydrate with:
+
+
+Gapfilling acgal, N-Source, other with:
+
+
+Gapfilling acgam, C-Source, carbohydrate with:
+ACGApts
+
+Gapfilling acgam, N-Source, other with:
+ACGApts
+
+Gapfilling acmana, C-Source, carbohydrate with:
+
+
+Gapfilling acmana, N-Source, other with:
+
+
+Gapfilling ad, C-Source, amide with:
+
+
+Gapfilling ad, N-Source, other with:
+
+
+Gapfilling agm, N-Source, other with:
+ARGAGMt7
+
+Gapfilling alltn, N-Source, other with:
+ALLTNt2r
+
+Gapfilling amp2p, P-Source, organic with:
+
+
+Gapfilling arab__D, C-Source, carbohydrate with:
+
+
+Gapfilling arbt, C-Source, carbohydrate with:
+
+
+Gapfilling argp, P-Source, organic with:
+
+
+Gapfilling asn__D, N-Source, amino acid with:
+
+
+Gapfilling but, C-Source, carboxylic acid with:
+
+
+Gapfilling camp, P-Source, organic with:
+
+
+Gapfilling cbp, P-Source, organic with:
+
+
+Gapfilling CE0074, N-Source, other with:
+
+
+Gapfilling cholp, P-Source, organic with:
+
+
+Gapfilling citr__L, N-Source, amino acid with:
+
+
+Gapfilling ethamp, P-Source, organic with:
+
+
+Gapfilling frmd, N-Source, other with:
+
+
+Gapfilling g1p, C-Source, carbohydrate with:
+
+
+Gapfilling g1p, P-Source, organic with:
+
+
+Gapfilling g6p, C-Source, carbohydrate with:
+
+
+Gapfilling g6p, P-Source, organic with:
+
+
+Gapfilling gam, C-Source, carbohydrate with:
+GAMpts
+
+Gapfilling gam, N-Source, other with:
+GAMpts
+
+Gapfilling gam6p, P-Source, organic with:
+
+
+Gapfilling glx, C-Source, carboxylic acid with:
+
+
+Gapfilling glyc2p, P-Source, organic with:
+
+
+Gapfilling hxa, C-Source, carboxylic acid with:
+
+
+Gapfilling mal__D, C-Source, carboxylic acid with:
+
+
+Gapfilling mal__D, C-Source, carboxylic acid with:
+
+
+Gapfilling malon, C-Source, carboxylic acid with:
+
+
+Gapfilling man1p, P-Source, organic with:
+
+
+Gapfilling man6p, P-Source, organic with:
+
+
+Gapfilling mbdg, C-Source, carbohydrate with:
+
+
+Gapfilling minohp, P-Source, organic with:
+
+
+Gapfilling pcreat, P-Source, organic with:
+
+
+Gapfilling peamn, C-Source, amine with:
+
+
+Gapfilling peamn, N-Source, other with:
+
+
+Gapfilling pep, P-Source, organic with:
+
+
+Gapfilling pser__D, P-Source, organic with:
+
+
+Gapfilling pser__L, P-Source, organic with:
+
+
+Gapfilling salcn, C-Source, carbohydrate with:
+SALCpts
+
+Gapfilling thrp, P-Source, organic with:
+
+
+Gapfilling tmp, P-Source, inorganic with:
+
+
+Gapfilling tym, C-Source, amine with:
+
+
+Gapfilling tym, N-Source, other with:
+
+
+Gapfilling tyrp, P-Source, organic with:
+
+
+Gapfilling tyrp, P-Source, organic with:
+
+
+Gapfilling urate, N-Source, other with:
+
+
+Gapfilling val__D, N-Source, amino acid with:
+
+
