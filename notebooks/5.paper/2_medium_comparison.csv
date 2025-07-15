@@ -1,0 +1,4 @@
+Medium,Reaction,Concentration,Simulated Growth,Experimental Growth
+Glutamate,EX_glu__L_e,0.96,0.04055703126398119,0.0412
+Glutamate+Glucose,EX_glu__L_e+EX_glc__D_e,0.88,0.046601198734529906,0.0390
+Mannitol,EX_mnl_e,0.8,0.05589954722969366,0.0430

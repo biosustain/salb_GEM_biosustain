@@ -1,0 +1,385 @@
+index,activity,chemical,category,moa,bigg,exchange,model_simulation_0.05,model_simulation_0.1,model_simulation_0.2
+PM01_A01,False,Negative Control,carbon,"C-Source, negative control",#,#,,,
+PM01_A02,True,L-Arabinose,carbon,"C-Source, carbohydrate",arab__L,EX_arab__L_e,True,True,True
+PM01_A03,True,N-Acetyl-D-Glucosamine,carbon,"C-Source, carbohydrate",acgam,EX_acgam_e,,,
+PM01_A04,False,D-Saccharic acid,carbon,"C-Source, carboxylic acid",glcr,EX_glcr_e,,,
+PM01_A05,True,Succinic acid,carbon,"C-Source, carboxylic acid",succ,EX_succ_e,True,True,True
+PM01_A06,True,D-Galactose,carbon,"C-Source, carbohydrate",gal,EX_gal_e,True,True,True
+PM01_A07,True,L-Aspartic acid,carbon,"C-Source, amino acid",asp__L,EX_asp__L_e,True,True,True
+PM01_A08,True,L-Proline,carbon,"C-Source, amino acid",pro__L,EX_pro__L_e,True,True,True
+PM01_A09,False,D-Alanine,carbon,"C-Source, amino acid",ala__D,EX_ala__D_e,True,True,True
+PM01_A10,False,D-Trehalose,carbon,"C-Source, carbohydrate",tre,EX_tre_e,True,True,True
+PM01_A11,True,D-Mannose,carbon,"C-Source, carbohydrate",man,EX_man_e,True,True,True
+PM01_A12,False,Dulcitol,carbon,"C-Source, carbohydrate",galt,EX_galt_e,,,
+PM01_B01,False,D-Serine,carbon,"C-Source, amino acid",ser__D,EX_ser__D_e,True,True,True
+PM01_B02,False,D-Sorbitol,carbon,"C-Source, carbohydrate",sbt__D,EX_sbt__D_e,True,True,True
+PM01_B03,True,Glycerol,carbon,"C-Source, carbohydrate",glyc,EX_glyc_e,True,True,True
+PM01_B04,False,L-Fucose,carbon,"C-Source, carbohydrate",fuc__L_e,EX_fuc__L_e,,,
+PM01_B05,False,D-Glucuronic acid,carbon,"C-Source, carboxylic acid",glcur,EX_glcur_e,,,
+PM01_B06,True,D-Gluconic acid,carbon,"C-Source, carboxylic acid",glcn_D,EX_glcn_e,True,True,True
+PM01_B07,False,DL-a-Glycerol Phosphate,carbon,"C-Source, carbohydrate",glyc3p,EX_glyc3p_e,False,False,False
+PM01_B08,True,D-Xylose,carbon,"C-Source, carbohydrate",xyl__D,EX_xyl__D_e,True,True,True
+PM01_B09,True,L-Lactic acid,carbon,"C-Source, carboxylic acid",lac__L,EX_lac__L_e,True,True,True
+PM01_B10,False,Formic acid,carbon,"C-Source, carboxylic acid",for,EX_for_e,False,False,False
+PM01_B11,True,D-Mannitol,carbon,"C-Source, carbohydrate",mnl,EX_mnl_e,True,True,True
+PM01_B12,True,L-Glutamic acid,carbon,"C-Source, amino acid",glu__L,EX_glu__L_e,True,True,True
+PM01_C01,False,D-Glucose-6-Phosphate,carbon,"C-Source, carbohydrate",g6p,EX_g6p_e,,,
+PM01_C02,False,D-Galactonic acid-g-Lactone,carbon,"C-Source, carboxylic acid",#,#,,,
+PM01_C03,True,DL-Malic acid,carbon,"C-Source, carboxylic acid",mal__D,EX_mal__D_e,,,
+PM01_C04,True,D-Ribose,carbon,"C-Source, carbohydrate",rib__D,EX_rib__D_e,True,True,True
+PM01_C05,True,Tween 20,carbon,"C-Source, fatty acid",MNXM88333,EX_MNXM88333_e,,,
+PM01_C06,False,L-Rhamnose,carbon,"C-Source, carbohydrate",rmn,EX_rmn_e,False,False,False
+PM01_C07,True,D-Fructose,carbon,"C-Source, carbohydrate",fru,EX_fru_e,True,True,True
+PM01_C08,True,Acetic acid,carbon,"C-Source, carboxylic acid",ac,EX_ac_e,True,True,True
+PM01_C09,True,a-D-Glucose,carbon,"C-Source, carbohydrate",glc__D,EX_glc__D_e,True,True,True
+PM01_C10,True,Maltose,carbon,"C-Source, carbohydrate",malt,EX_malt_e,True,True,True
+PM01_C11,False,D-Melibiose,carbon,"C-Source, carbohydrate",melib,EX_melib_e,False,False,False
+PM01_C12,True,Thymidine,carbon,"C-Source, carbohydrate",thymd,EX_thymd_e,True,True,True
+PM01_D01,True,L-Asparagine,carbon,"C-Source, amino acid",asn__L,EX_asn__L_e,True,True,True
+PM01_D02,False,D-Aspartic acid,carbon,"C-Source, amino acid",asp__D,EX_asp__D_e,,,
+PM01_D03,True,D-Glucosaminic acid,carbon,"C-Source, carboxylic acid",#,EX_MNXM2469_e,,,
+PM01_D04,False,"1,2-Propanediol",carbon,"C-Source, alcohol",EX_12ppd__S_e,,,,
+PM01_D05,True,Tween 40,carbon,"C-Source, fatty acid",MNXM88334,EX_MNXM88334_e,,,
+PM01_D06,False,a-Ketoglutaric acid,carbon,"C-Source, carboxylic acid",akg,EX_akg_e,True,True,True
+PM01_D07,True,a-Ketobutyric acid,carbon,"C-Source, carboxylic acid",2obut,EX_2obut_e,,,
+PM01_D08,False,a-Methyl-D-Galactoside,carbon,"C-Source, carbohydrate",#,EX_MNXM3304_e,,,
+PM01_D09,False,a-D-Lactose,carbon,"C-Source, carbohydrate",lcts,EX_lcts_e,,,
+PM01_D10,False,Lactulose,carbon,"C-Source, carbohydrate",#,EX_MNXM12073_e,,,
+PM01_D11,False,Sucrose,carbon,"C-Source, carbohydrate",sucr,EX_sucr_e,,,
+PM01_D12,False,Uridine,carbon,"C-Source, carbohydrate",uri,EX_uri_e,True,True,True
+PM01_E01,False,L-Glutamine,carbon,"C-Source, amino acid",gln__L,EX_gln__L_e,True,True,True
+PM01_E02,False,m-Tartaric acid,carbon,"C-Source, carboxylic acid",tartr__M,EX_tartr__M_e,,,
+PM01_E03,False,D-Glucose-1-Phosphate,carbon,"C-Source, carbohydrate",g1p,EX_g1p_e,,,
+PM01_E04,False,D-Fructose-6-Phosphate,carbon,"C-Source, carbohydrate",f6p,EX_f6p_e,,,
+PM01_E05,True,Tween 80,carbon,"C-Source, fatty acid",MNXM88336,EX_MNXM88336_e,,,
+PM01_E06,False,a-Hydroxyglutaric acid-g-Lactone,carbon,"C-Source, carboxylic acid",#,#,,,
+PM01_E07,True,a-Hydroxybutyric acid,carbon,"C-Source, carboxylic acid",2hbut,EX_2hbut_e,,,
+PM01_E08,True,b-Methyl-D-Glucoside,carbon,"C-Source, carbohydrate",mbdg,EX_mbdg_e,,,
+PM01_E09,False,Adonitol,carbon,"C-Source, carbohydrate",rbt,EX_rbt_e,,,
+PM01_E10,True,Maltotriose,carbon,"C-Source, carbohydrate",malttr,EX_malttr_e,True,True,True
+PM01_E11,True,2`-Deoxyadenosine,carbon,"C-Source, carbohydrate",dad_2,EX_dad_2_e,True,True,True
+PM01_E12,True,Adenosine,carbon,"C-Source, carbohydrate",adn,EX_adn_e,True,True,True
+PM01_F01,True,Gly-Asp,carbon,"C-Source, amino acid",glu_asp__L,EX_gly_asp__L_e,,,
+PM01_F02,True,Citric acid,carbon,"C-Source, carboxylic acid",cit,EX_cit_e,True,True,True
+PM01_F03,False,m-Inositol,carbon,"C-Source, carbohydrate",inost,EX_inost_e,False,False,False
+PM01_F04,False,D-Threonine,carbon,"C-Source, amino acid",#,EX_MNXM2514_e,,,
+PM01_F05,True,Fumaric acid,carbon,"C-Source, carboxylic acid",fum,EX_fum_e,True,True,True
+PM01_F06,True,Bromosuccinic acid,carbon,"C-Source, carboxylic acid",#,#,,,
+PM01_F07,True,Propionic acid,carbon,"C-Source, carboxylic acid",ppa,EX_ppa_e,True,True,True
+PM01_F08,False,Mucic acid,carbon,"C-Source, carboxylic acid",galct__D,EX_galct__D_e,,,
+PM01_F09,False,Glycolic acid,carbon,"C-Source, carboxylic acid",glyclt,EX_glyclt_e,True,True,True
+PM01_F10,True,Glyoxylic acid,carbon,"C-Source, carboxylic acid",glx,EX_glx_e,,,
+PM01_F11,True,D-Cellobiose,carbon,"C-Source, carbohydrate",cellb,EX_cellb_e,True,True,True
+PM01_F12,True,Inosine,carbon,"C-Source, carbohydrate",ins,EX_ins_e,True,True,True
+PM01_G01,True,Gly-Glu,carbon,"C-Source, amino acid",gly_L_glu__L,EX_gly_L_glu__L_e,,,
+PM01_G02,False,Tricarballylic acid,carbon,"C-Source, carboxylic acid",tcb,EX_tcb_e,,,
+PM01_G03,True,L-Serine,carbon,"C-Source, amino acid",ser__L,EX_ser__L_e,True,True,True
+PM01_G04,True,L-Threonine,carbon,"C-Source, amino acid",thr__L,EX_thr__L_e,True,True,True
+PM01_G05,True,L-Alanine,carbon,"C-Source, amino acid",ala__L,EX_ala__L_e,True,True,True
+PM01_G06,True,Ala-Gly,carbon,"C-Source, amino acid",ala_L_gly__L,EX_ala_L_gly__L_e,,,
+PM01_G07,False,Acetoacetic acid,carbon,"C-Source, carboxylic acid",acac,EX_acac_e,,,
+PM01_G08,False,N-Acetyl-D-Mannosamine,carbon,"C-Source, carbohydrate",acmana,EX_acmana_e,,,
+PM01_G09,False,Mono-Methylsuccinate,carbon,"C-Source, carboxylic acid",methsucc,EX_methsucc_e,,,
+PM01_G10,True,Methylpyruvate,carbon,"C-Source, ester",#,#,,,
+PM01_G11,False,D-Malic acid,carbon,"C-Source, carboxylic acid",mal__D,EX_mal__D_e,,,
+PM01_G12,True,L-Malic acid,carbon,"C-Source, carboxylic acid",mal__L,EX_mal__L_e,True,True,True
+PM01_H01,True,Gly-Pro,carbon,"C-Source, amino acid",gly_L_pro__L,EX_gly_L_pro__L_e,,,
+PM01_H02,False,p-Hydroxyphenyl Acetic acid,carbon,"C-Source, carboxylic acid",4hphac,EX_4hphac_e,,,
+PM01_H03,True,m-Hydroxyphenyl Acetic acid,carbon,"C-Source, carboxylic acid",3hoxpac,EX_3hoxpac_e,,,
+PM01_H04,False,Tyramine,carbon,"C-Source, amine",tym,EX_tym_e,,,
+PM01_H05,False,D-Psicose,carbon,"C-Source, carbohydrate",#,EX_MNXM8509_e,,,
+PM01_H06,True,L-Lyxose,carbon,"C-Source, carbohydrate",lyx__L,EX_lyx__L_e,True,True,True
+PM01_H07,False,Glucuronamide,carbon,"C-Source, amide",#,#,,,
+PM01_H08,True,Pyruvic acid,carbon,"C-Source, carboxylic acid",pyr,EX_pyr_e,True,True,True
+PM01_H09,False,L-Galactonic acid-g-Lactone,carbon,"C-Source, carboxylic acid",#,#,,,
+PM01_H10,False,D-Galacturonic acid,carbon,"C-Source, carboxylic acid",galur,EX_galur_e,,,
+PM01_H11,False,Phenylethylamine,carbon,"C-Source, amine",peamn,EX_peamn_e,,,
+PM01_H12,False,2-Aminoethanol,carbon,"C-Source, alcohol",etha,EX_etha_e,True,True,True
+PM02_A01,False,Negative Control,carbon,"C-Source, negative control",#,#,,,
+PM02_A02,False,Chondroitin Sulfate C,carbon,"C-Source, polymer",#,EX_MNXM8395_e,,,
+PM02_A03,False,a-Cyclodextrin,carbon,"C-Source, polymer",#,#,,,
+PM02_A04,False,b-Cyclodextrin,carbon,"C-Source, polymer",#,#,,,
+PM02_A05,True,g-Cyclodextrin,carbon,"C-Source, polymer",#,#,,,
+PM02_A06,True,Dextrin,carbon,"C-Source, polymer",dextrin,EX_dextrin_e,,,
+PM02_A07,True,Gelatin,carbon,"C-Source, polymer",#,#,,,
+PM02_A08,True,Glycogen,carbon,"C-Source, polymer",glycogen,EX_glycogen_e,,,
+PM02_A09,False,Inulin,carbon,"C-Source, polymer",#,#,,,
+PM02_A10,True,Laminarin,carbon,"C-Source, polymer",#,EX_MNXM59700_e,,,
+PM02_A11,False,Mannan,carbon,"C-Source, polymer",mannan,EX_mannan_e,,,
+PM02_A12,False,Pectin,carbon,"C-Source, polymer",pectin,EX_pectin_e,,,
+PM02_B01,False,N-Acetyl-D-Galactosamine,carbon,"C-Source, carbohydrate",acgal,EX_acgal_e,,,
+PM02_B02,False,N-Acetyl-Neuraminic acid,carbon,"C-Source, carboxylic acid",acnam,EX_acnam_e,,,
+PM02_B03,False,b-D-Allose,carbon,"C-Source, carbohydrate",all__D,EX_all__D_e,,,
+PM02_B04,True,Amygdalin,carbon,"C-Source, carbohydrate",#,EX_MNXM4201_e,,,
+PM02_B05,True,D-Arabinose,carbon,"C-Source, carbohydrate",arab__D,EX_arab__D_e,,,
+PM02_B06,True,D-Arabitol,carbon,"C-Source, carbohydrate",abt__D,EX_abt__D_e,True,True,True
+PM02_B07,False,L-Arabitol,carbon,"C-Source, carbohydrate",abt__L,EX_abt__L_e,,,
+PM02_B08,True,Arbutin,carbon,"C-Source, carbohydrate",arbt,EX_arbt_e,,,
+PM02_B09,True,2-Deoxy-D-Ribose,carbon,"C-Source, carbohydrate",drib,EX_drib_e,True,True,True
+PM02_B10,False,i-Erythritol,carbon,"C-Source, carbohydrate",#,EX_MNXM3592_e,,,
+PM02_B11,False,D-Fucose,carbon,"C-Source, carbohydrate",#,EX_MNXM8489_e,,,
+PM02_B12,False,3-O-b-D-Galactopyranosyl-D-Arabinose,carbon,"C-Source, carbohydrate",#,#,,,
+PM02_C01,True,Gentiobiose,carbon,"C-Source, carbohydrate",#,EX_MNXM18038_e,,,
+PM02_C02,False,L-Glucose,carbon,"C-Source, carbohydrate",#,#,,,
+PM02_C03,False,D-Lactitol,carbon,"C-Source, carbohydrate",#,#,,,
+PM02_C04,False,D-Melezitose,carbon,"C-Source, carbohydrate",#,#,,,
+PM02_C05,False,Maltitol,carbon,"C-Source, carbohydrate",#,#,,,
+PM02_C06,False,a-Methyl-D-Glucoside,carbon,"C-Source, carbohydrate",amdglc,EX_amdglc_e,,,
+PM02_C07,False,b-Methyl-D-Galactoside,carbon,"C-Source, carbohydrate",#,EX_MNXM3304_e,,,
+PM02_C08,False,3-Methylglucose,carbon,"C-Source, carbohydrate",#,#,,,
+PM02_C09,False,b-Methyl-D-Glucuronic acid,carbon,"C-Source, carboxylic acid",#,EX_MNXM146121_e,,,
+PM02_C10,False,a-Methyl-D-Mannoside,carbon,"C-Source, carbohydrate",#,#,,,
+PM02_C11,False,b-Methyl-D-Xyloside,carbon,"C-Source, carbohydrate",#,#,,,
+PM02_C12,False,Palatinose,carbon,"C-Source, carbohydrate",pala,EX_pala_e,,,
+PM02_D01,False,D-Raffinose,carbon,"C-Source, carbohydrate",raffin,EX_raffin_e,False,False,False
+PM02_D02,True,Salicin,carbon,"C-Source, carbohydrate",salcn,EX_salcn_e,,,
+PM02_D03,False,Sedoheptulosan,carbon,"C-Source, carbohydrate",#,#,,,
+PM02_D04,False,L-Sorbose,carbon,"C-Source, carbohydrate",srb__L,EX_srb__L_e,,,
+PM02_D05,False,Stachyose,carbon,"C-Source, carbohydrate",stys,EX_stys_e,,,
+PM02_D06,False,D-Tagatose,carbon,"C-Source, carbohydrate",tag__D,EX_tag__D_e,,,
+PM02_D07,False,Turanose,carbon,"C-Source, carbohydrate",#,#,,,
+PM02_D08,False,Xylitol,carbon,"C-Source, carbohydrate",xylt,EX_xylt_e,False,False,False
+PM02_D09,False,N-Acetyl-D-Glucosaminitol,carbon,"C-Source, carbohydrate",#,#,,,
+PM02_D10,False,g-Amino-N-Butyric acid,carbon,"C-Source, carboxylic acid",4abut,EX_4abut_e,True,True,True
+PM02_D11,False,d-Amino Valeric acid,carbon,"C-Source, carboxylic acid",5aptn,EX_5aptn_e,,,
+PM02_D12,True,Butyric acid,carbon,"C-Source, carboxylic acid",but,EX_but_e,,,
+PM02_E01,False,Capric acid,carbon,"C-Source, carboxylic acid",dca,EX_dca_e,,,
+PM02_E02,True,Caproic acid,carbon,"C-Source, carboxylic acid",hxa,EX_hxa_e,,,
+PM02_E03,False,Citraconic acid,carbon,"C-Source, carboxylic acid",citac,EX_citac_e,,,
+PM02_E04,False,Citramalic acid,carbon,"C-Source, carboxylic acid",citm,EX_citm_e,,,
+PM02_E05,True,D-Glucosamine,carbon,"C-Source, carbohydrate",gam,EX_gam_e,,,
+PM02_E06,False,2-Hydroxybenzoic acid,carbon,"C-Source, carboxylic acid",salc,EX_salc_e,,,
+PM02_E07,False,4-Hydroxybenzoic acid,carbon,"C-Source, carboxylic acid",4hbz,EX_4hbz_e,,,
+PM02_E08,True,b-Hydroxybutyric acid,carbon,"C-Source, carboxylic acid",bhb,EX_bhb_e,True,True,True
+PM02_E09,False,g-Hydroxybutyric acid,carbon,"C-Source, carboxylic acid",ghb,EX_ghb_e,,,
+PM02_E10,False,a-Keto-Valeric acid,carbon,"C-Source, carboxylic acid",#,#,,,
+PM02_E11,False,Itaconic acid,carbon,"C-Source, carboxylic acid",itacon,EX_itacon_e,,,
+PM02_E12,True,5-Keto-D-Gluconic acid,carbon,"C-Source, carboxylic acid",5dglcn,EX_5dglcn_e,True,True,True
+PM02_F01,False,D-Lactic acid Methyl Ester,carbon,"C-Source, ester",#,#,,,
+PM02_F02,True,Malonic acid,carbon,"C-Source, carboxylic acid",malon,EX_malon_e,,,
+PM02_F03,False,Melibionic acid,carbon,"C-Source, carbohydrate",#,#,,,
+PM02_F04,False,Oxalic acid,carbon,"C-Source, carboxylic acid",oxa,EX_oxa_e,,,
+PM02_F05,False,Oxalomalic acid,carbon,"C-Source, carboxylic acid",#,EX_MNXM3850_e,,,
+PM02_F06,False,Quinic acid,carbon,"C-Source, carboxylic acid",quin,EX_quin_e,,,
+PM02_F07,False,"D-Ribono-1,4-Lactone",carbon,"C-Source, carboxylic acid",#,#,,,
+PM02_F08,False,Sebacic acid,carbon,"C-Source, carboxylic acid",sebacid,EX_sebacid_e,,,
+PM02_F09,False,Sorbic acid,carbon,"C-Source, carboxylic acid",#,#,,,
+PM02_F10,False,Succinamic acid,carbon,"C-Source, carboxylic acid",#,#,,,
+PM02_F11,False,D-Tartaric acid,carbon,"C-Source, carboxylic acid",tartr__D,EX_tartr__D_e,True,True,True
+PM02_F12,False,L-Tartaric acid,carbon,"C-Source, carboxylic acid",tartr__L,EX_tartr__L_e,,,
+PM02_G01,False,Acetamide,carbon,"C-Source, amide",ad,EX_ad_e,,,
+PM02_G02,True,L-Alaninamide,carbon,"C-Source, amide",#,#,,,
+PM02_G03,False,N-Acetyl-L-Glutamic acid,carbon,"C-Source, amino acid",acglu,EX_acglu_e,,,
+PM02_G04,False,L-Arginine,carbon,"C-Source, amino acid",arg__L,EX_arg__L_e,False,False,False
+PM02_G05,True,Glycine,carbon,"C-Source, amino acid",gly,EX_gly_e,True,True,True
+PM02_G06,True,L-Histidine,carbon,"C-Source, amino acid",his__L,EX_his__L_e,True,True,True
+PM02_G07,False,L-Homoserine,carbon,"C-Source, amino acid",hom__L,EX_hom__L_e,False,False,False
+PM02_G08,False,Hydroxy-L-Proline,carbon,"C-Source, amino acid",#,EX_MNXM90406_e,,,
+PM02_G09,True,L-Isoleucine,carbon,"C-Source, amino acid",ile__L,EX_ile__L_e,True,True,True
+PM02_G10,False,L-Leucine,carbon,"C-Source, amino acid",leu__L,EX_leu__L_e,True,True,True
+PM02_G11,False,L-Lysine,carbon,"C-Source, amino acid",lys__L,EX_lys__L_e,True,True,True
+PM02_G12,True,L-Methionine,carbon,"C-Source, amino acid",met__L,EX_met__L_e,False,False,False
+PM02_H01,False,L-Ornithine,carbon,"C-Source, amino acid",orn,EX_orn_e,True,True,True
+PM02_H02,True,L-Phenylalanine,carbon,"C-Source, amino acid",phe__L,EX_phe__L_e,True,True,True
+PM02_H03,False,L-Pyroglutamic acid,carbon,"C-Source, amino acid",#,#,,,
+PM02_H04,True,L-Valine,carbon,"C-Source, amino acid",val__L,EX_val__L_e,True,True,True
+PM02_H05,False,"D,L-Carnitine",carbon,"C-Source, carboxylic acid",crn,EX_crn_e,,,
+PM02_H06,False,sec-Butylamine,carbon,"C-Source, amine",#,#,,,
+PM02_H07,False,"D,L-Octopamine",carbon,"C-Source, amine",#,EX_MNXM3679_e,,,
+PM02_H08,True,Putrescine,carbon,"C-Source, amine",ptrc,EX_ptrc_e,True,True,True
+PM02_H09,True,Dihydroxyacetone,carbon,"C-Source, alcohol",dha,EX_dha_e,True,True,True
+PM02_H10,False,"2,3-Butanediol",carbon,"C-Source, alcohol",23btdl,EX_23btdl_e,,,
+PM02_H11,False,"2,3-Butanedione",carbon,"C-Source, alcohol",diact,EX_diact_e,,,
+PM02_H12,False,3-Hydroxy-2-buta,carbon,"C-Source, alcohol",#,EX_MNXM1268_e,,,
+PM03_A01,False,Negative Control,nitrogen,"N-Source, Negative control",#,#,,,
+PM03_A02,True,Ammonia,nitrogen,"N-Source, inorganic",nh4,EX_nh4_e,True,True,True
+PM03_A03,True,Nitrite,nitrogen,"N-Source, inorganic",no2,EX_no2_e,True,True,True
+PM03_A04,True,Nitrate,nitrogen,"N-Source, inorganic",no3,EX_no3_e,True,True,True
+PM03_A05,True,Urea,nitrogen,"N-Source, other",urea,EX_urea_e,True,True,True
+PM03_A06,True,Biuret,nitrogen,"N-Source, other",#,EX_MNXM1545_e,,,
+PM03_A07,True,L-Alanine,nitrogen,"N-Source, amino acid",ala__L,EX_ala__L_e,True,True,True
+PM03_A08,True,L-Arginine,nitrogen,"N-Source, amino acid",arg__L,EX_arg__L_e,True,True,True
+PM03_A09,True,L-Asparagine,nitrogen,"N-Source, amino acid",asn__L,EX_asn__L_e,True,True,True
+PM03_A10,True,L-Aspartic acid,nitrogen,"N-Source, amino acid",asp__L,EX_asp__L_e,True,True,True
+PM03_A11,True,L-Cysteine,nitrogen,"N-Source, amino acid",cys__L,EX_cys__L_e,True,True,True
+PM03_A12,True,L-Glutamic acid,nitrogen,"N-Source, amino acid",glu__L,EX_glu__L_e,True,True,True
+PM03_B01,True,L-Glutamine,nitrogen,"N-Source, amino acid",gln__L,EX_gln__L_e,True,True,True
+PM03_B02,True,Glycine,nitrogen,"N-Source, amino acid",gly,EX_gly_e,True,True,True
+PM03_B03,True,L-Histidine,nitrogen,"N-Source, amino acid",his__L,EX_his__L_e,True,True,True
+PM03_B04,True,L-Isoleucine,nitrogen,"N-Source, amino acid",ile__L,EX_ile__L_e,True,True,True
+PM03_B05,True,L-Leucine,nitrogen,"N-Source, amino acid",leu__L,EX_leu__L_e,True,True,True
+PM03_B06,True,L-Lysine,nitrogen,"N-Source, amino acid",lys__L,EX_lys__L_e,True,True,True
+PM03_B07,True,L-Methionine,nitrogen,"N-Source, amino acid",met__L,EX_met__L_e,True,True,True
+PM03_B08,True,L-Phenylalanine,nitrogen,"N-Source, amino acid",phe__L,EX_phe__L_e,True,True,True
+PM03_B09,True,L-Proline,nitrogen,"N-Source, amino acid",pro__L,EX_pro__L_e,True,True,True
+PM03_B10,True,L-Serine,nitrogen,"N-Source, amino acid",ser__L,EX_ser__L_e,True,True,True
+PM03_B11,True,L-Threonine,nitrogen,"N-Source, amino acid",thr__L,EX_thr__L_e,True,True,True
+PM03_B12,True,L-Tryptophan,nitrogen,"N-Source, amino acid",trp__L,EX_trp__L_e,True,True,True
+PM03_C01,True,L-Tyrosine,nitrogen,"N-Source, amino acid",tyr__L,EX_tyr__L_e,True,True,True
+PM03_C02,True,L-Valine,nitrogen,"N-Source, amino acid",val__L,EX_val__L_e,True,True,True
+PM03_C03,True,D-Alanine,nitrogen,"N-Source, amino acid",ala__D,EX_ala__D_e,True,True,True
+PM03_C04,True,D-Asparagine,nitrogen,"N-Source, amino acid",asn__D,EX_asn__D_e,,,
+PM03_C05,False,D-Aspartic acid,nitrogen,"N-Source, amino acid",asp__D,EX_asp__D_e,,,
+PM03_C06,False,D-Glutamic acid,nitrogen,"N-Source, amino acid",glu__D,EX_glu__D_e,,,
+PM03_C07,False,D-Lysine,nitrogen,"N-Source, amino acid",lys__D,EX_lys__D_e,,,
+PM03_C08,True,D-Serine,nitrogen,"N-Source, amino acid",ser__D,EX_ser__D_e,True,True,True
+PM03_C09,True,D-Valine,nitrogen,"N-Source, amino acid",val__D,EX_val__D_e,,,
+PM03_C10,True,L-Citrulline,nitrogen,"N-Source, amino acid",citr__L,EX_citr__L_e,False,False,False
+PM03_C11,True,L-Homoserine,nitrogen,"N-Source, amino acid",hom__L,EX_hom__L_e,False,False,False
+PM03_C12,True,L-Ornithine,nitrogen,"N-Source, amino acid",orn,EX_orn_e,True,True,True
+PM03_D01,False,N-Acetyl-L-Glutamic acid,nitrogen,"N-Source, amino acid",acglu,EX_acglu_e,,,
+PM03_D02,True,N-Phthaloyl-L-Glutamic acid,nitrogen,"N-Source, amino acid",#,#,,,
+PM03_D03,True,L-Pyroglutamic acid,nitrogen,"N-Source, amino acid",#,#,,,
+PM03_D04,False,Hydroxylamine,nitrogen,"N-Source, other",ham,EX_ham_e,,,
+PM03_D05,False,Methylamine,nitrogen,"N-Source, other",mma,EX_mma_e,,,
+PM03_D06,False,N-Amylamine,nitrogen,"N-Source, other",#,#,,,
+PM03_D07,False,N-Butylamine,nitrogen,"N-Source, other",#,#,,,
+PM03_D08,False,Ethylamine,nitrogen,"N-Source, other",#,EX_MNXM924_e,,,
+PM03_D09,True,Ethanolamine,nitrogen,"N-Source, other",etha,EX_etha_e,True,True,True
+PM03_D10,False,Ethylenediamine,nitrogen,"N-Source, other",#,#,,,
+PM03_D11,True,Putrescine,nitrogen,"N-Source, other",ptrc,EX_ptrc_e,True,True,True
+PM03_D12,True,Agmatine,nitrogen,"N-Source, other",agm,EX_agm_e,,,
+PM03_E01,False,Histamine,nitrogen,"N-Source, other",hista,EX_hista_e,,,
+PM03_E02,True,b-Phenylethylamine,nitrogen,"N-Source, other",peamn,EX_peamn_e,,,
+PM03_E03,True,Tyramine,nitrogen,"N-Source, other",tym,EX_tym_e,,,
+PM03_E04,True,Acetamide,nitrogen,"N-Source, other",ad,EX_ad_e,,,
+PM03_E05,True,Formamide,nitrogen,"N-Source, other",frmd,EX_frmd_e,,,
+PM03_E06,True,Glucuronamide,nitrogen,"N-Source, other",#,#,,,
+PM03_E07,True,DL-Lactamide,nitrogen,"N-Source, other",#,#,,,
+PM03_E08,True,D-Glucosamine,nitrogen,"N-Source, other",gam,EX_gam_e,,,
+PM03_E09,False,D-Galactosamine,nitrogen,"N-Source, other",galam,EX_galam_e,,,
+PM03_E10,True,D-Mannosamine,nitrogen,"N-Source, other",#,#,,,
+PM03_E11,True,N-Acetyl-D-Glucosamine,nitrogen,"N-Source, other",acgam,EX_acgam_e,,,
+PM03_E12,True,N-Acetyl-D-Galactosamine,nitrogen,"N-Source, other",acgal,EX_acgal_e,,,
+PM03_F01,True,N-Acetyl-D-Mannosamine,nitrogen,"N-Source, other",acmana,EX_acmana_e,,,
+PM03_F02,True,Adenine,nitrogen,"N-Source, other",ade,EX_ade_e,True,True,True
+PM03_F03,True,Adenosine,nitrogen,"N-Source, other",adn,EX_adn_e,True,True,True
+PM03_F04,True,Cytidine,nitrogen,"N-Source, other",cytd,EX_cytd_e,True,True,True
+PM03_F05,True,Cytosine,nitrogen,"N-Source, other",csn,EX_csn_e,True,True,True
+PM03_F06,False,Guanine,nitrogen,"N-Source, other",gua,EX_gua_e,True,True,True
+PM03_F07,True,Guanosine,nitrogen,"N-Source, other",gsn,EX_gsn_e,True,True,True
+PM03_F08,True,Thymine,nitrogen,"N-Source, other",thym,EX_thym_e,False,False,False
+PM03_F09,True,Thymidine,nitrogen,"N-Source, other",thymd,EX_thymd_e,False,False,False
+PM03_F10,True,Uracil,nitrogen,"N-Source, other",ura,EX_ura_e,False,False,False
+PM03_F11,True,Uridine,nitrogen,"N-Source, other",uri,EX_uri_e,False,False,False
+PM03_F12,True,Inosine,nitrogen,"N-Source, other",ins,EX_ins_e,True,True,True
+PM03_G01,True,Xanthine,nitrogen,"N-Source, other",xan,EX_xan_e,True,True,True
+PM03_G02,True,Xanthosine,nitrogen,"N-Source, other",xtsn,EX_xtsn_e,True,True,True
+PM03_G03,True,Uric acid,nitrogen,"N-Source, other",urate,EX_urate_e,,,
+PM03_G04,True,Alloxan,nitrogen,"N-Source, other",CE0074,EX_CE0074_e,,,
+PM03_G05,True,Allantoin,nitrogen,"N-Source, other",alltn,EX_alltn_e,,,
+PM03_G06,True,Parabanic acid,nitrogen,"N-Source, other",#,#,,,
+PM03_G07,True,DL-a-Amino-N-Butyric acid,nitrogen,"N-Source, other",#,EX_MNXM155019_e,,,
+PM03_G08,True,g-Amino-N-Butyric acid,nitrogen,"N-Source, other",4abut,EX_4abut_e,True,True,True
+PM03_G09,True,e-Amino-N-Caproic acid,nitrogen,"N-Source, other",6ax,EX_6ax_e,,,
+PM03_G10,True,DL-a-Amino-Caprylic acid,nitrogen,"N-Source, other",#,#,,,
+PM03_G11,True,d-Amino-N-Valeric acid,nitrogen,"N-Source, other",5aptn,EX_5aptn_e,,,
+PM03_G12,True,a-Amino-N-Valeric acid,nitrogen,"N-Source, other",#,EX_MNXM4024_e,,,
+PM03_H01,True,Ala-Asp,nitrogen,"N-Source, peptide",ala_L_asp__L,EX_ala_L_asp__L_e,,,
+PM03_H02,True,Ala-Gln,nitrogen,"N-Source, peptide",ala_L_gln__L,EX_ala_L_gln__L_e,,,
+PM03_H03,True,Ala-Glu,nitrogen,"N-Source, peptide",ala_L_gln__L,EX_ala_L_glu__L_e,,,
+PM03_H04,True,Ala-Gly,nitrogen,"N-Source, peptide",ala_L_gly__L,EX_ala_L_gly__L_e,,,
+PM03_H05,True,Ala-His,nitrogen,"N-Source, peptide",ala_L_his__L,EX_ala_L_his__L_e,,,
+PM03_H06,True,Ala-Leu,nitrogen,"N-Source, peptide",ala_L_leu__L,EX_ala_L_leu__L_e,,,
+PM03_H07,True,Ala-Thr,nitrogen,"N-Source, peptide",ala_L_thr__L,EX_ala_L_thr__L_e,,,
+PM03_H08,True,Gly-Asn,nitrogen,"N-Source, peptide",gly_asn__L,EX_gly_asn__L_e,,,
+PM03_H09,True,Gly-Gln,nitrogen,"N-Source, peptide",gly_gln__L,EX_gly_gln__L_e,,,
+PM03_H10,True,Gly-Glu,nitrogen,"N-Source, peptide",gly_glu__L,EX_gly_glu__L_e,,,
+PM03_H11,True,Gly-Met,nitrogen,"N-Source, peptide",gly_met__L,EX_gly_met__L_e,,,
+PM03_H12,True,Met-Ala,nitrogen,"N-Source, peptide",met_ala__L_e,EX_met_ala__L_e,,,
+PM04_A01,False,Negative Control,phosphate & sulphur,"P-Source, Negative control",#,#,,,
+PM04_A02,True,Phosphate,phosphate & sulphur,"P-Source, inorganic",pi,EX_pi_e,True,True,True
+PM04_A03,True,Pyrophosphate,phosphate & sulphur,"P-Source, inorganic",ppi,EX_ppi_e,,,
+PM04_A04,True,Trimetaphosphate,phosphate & sulphur,"P-Source, inorganic",tmp,EX_tmp_e,,,
+PM04_A05,True,Tripolyphosphate,phosphate & sulphur,"P-Source, inorganic",pppi,EX_pppi_e,,,
+PM04_A06,False,Triethyl Phosphate,phosphate & sulphur,"P-Source, organic",#,#,,,
+PM04_A07,False,Hypophosphite,phosphate & sulphur,"P-Source, inorganic",#,#,,,
+PM04_A08,True,Adenosine 2`-Monophosphate,phosphate & sulphur,"P-Source, organic",amp2p,EX_amp2p_e,,,
+PM04_A09,True,Adenosine 3`-Monophosphate,phosphate & sulphur,"P-Source, organic",3amp,EX_3amp_e,True,True,True
+PM04_A10,True,Adenosine 5`-Monophosphate,phosphate & sulphur,"P-Source, organic",amp,EX_amp_e,True,True,True
+PM04_A11,True,"Adenosine 2`,3`-Cyclic Monophosphate",phosphate & sulphur,"P-Source, organic",23camp,EX_23camp_e,True,True,True
+PM04_A12,True,"Adenosine 3`,5`-Cyclic Monophosphate",phosphate & sulphur,"P-Source, organic",camp,EX_camp_e,,,
+PM04_B01,False,Thiophosphate,phosphate & sulphur,"P-Source, inorganic",#,#,,,
+PM04_B02,False,Dithiophosphate,phosphate & sulphur,"P-Source, inorganic",#,#,,,
+PM04_B03,True,DL-a-Glycerol Phosphate,phosphate & sulphur,"P-Source, organic",glyc3p,EX_glyc3p_e,False,False,False
+PM04_B04,True,b-Glycerol Phosphate,phosphate & sulphur,"P-Source, organic",glyc2p,EX_glyc2p_e,,,
+PM04_B05,True,Carbamyl Phosphate,phosphate & sulphur,"P-Source, organic",cbp,EX_cbp_e,,,
+PM04_B06,True,D-2-Phospho-Glyceric acid,phosphate & sulphur,"P-Source, organic",2pg,EX_2pg_e,,,
+PM04_B07,True,D-3-Phospho-Glyceric acid,phosphate & sulphur,"P-Source, organic",3pg,EX_3pg_e,,,
+PM04_B08,True,Guanosine 2`-Monophosphate,phosphate & sulphur,"P-Source, organic",#,#,,,
+PM04_B09,True,Guanosine 3`-Monophosphate,phosphate & sulphur,"P-Source, organic",3gmp,EX_3gmp_e,True,True,True
+PM04_B10,True,Guanosine 5`-Monophosphate,phosphate & sulphur,"P-Source, organic",gmp,EX_gmp_e,True,True,True
+PM04_B11,True,"Guanosine 2`,3`-Cyclic Monophosphate",phosphate & sulphur,"P-Source, organic",23cgmp,EX_23cgmp_e,True,True,True
+PM04_B12,True,"Guanosine 3`,5`-Cyclic Monophosphate",phosphate & sulphur,"P-Source, organic",35cgmp,EX_35cgmp_e,,,
+PM04_C01,True,Phosphoenol Pyruvate,phosphate & sulphur,"P-Source, organic",pep,EX_pep_e,,,
+PM04_C02,True,Phospho-Glycolic acid,phosphate & sulphur,"P-Source, organic",2pglyc,EX_2pglyc_e,,,
+PM04_C03,True,D-Glucose-1-Phosphate,phosphate & sulphur,"P-Source, organic",g1p,EX_g1p_e,,,
+PM04_C04,True,D-Glucose-6-Phosphate,phosphate & sulphur,"P-Source, organic",g6p,EX_g6p_e,,,
+PM04_C05,False,2-Deoxy-D-Glucose 6-Phosphate,phosphate & sulphur,"P-Source, organic",2doxg6p,EX_2doxg6p_e,,,
+PM04_C06,True,D-Glucosamine-6-Phosphate,phosphate & sulphur,"P-Source, organic",gam6p,EX_gam6p_e,,,
+PM04_C07,True,6-Phospho-Gluconic acid,phosphate & sulphur,"P-Source, organic",6pgc,EX_6pgc_e,,,
+PM04_C08,True,Cytidine 2`-Monophosphate,phosphate & sulphur,"P-Source, organic",#,EX_MNXM11237_e,,,
+PM04_C09,False,Cytidine 3`-Monophosphate,phosphate & sulphur,"P-Source, organic",3cmp,EX_3cmp_e,True,True,True
+PM04_C10,True,Cytidine 5`-Monophosphate,phosphate & sulphur,"P-Source, organic",cmp,EX_cmp_e,True,True,True
+PM04_C11,True,"Cytidine 2`,3`-Cyclic Monophosphate",phosphate & sulphur,"P-Source, organic",23ccmp,EX_23ccmp_e,True,True,True
+PM04_C12,True,"Cytidine 3`,5`-Cyclic Monophosphate",phosphate & sulphur,"P-Source, organic",35cgmp,EX_35cgmp_e,,,
+PM04_D01,True,D-Mannose-1-Phosphate,phosphate & sulphur,"P-Source, organic",man1p,EX_man1p_e,,,
+PM04_D02,True,D-Mannose-6-Phosphate,phosphate & sulphur,"P-Source, organic",man6p,EX_man6p_e,,,
+PM04_D03,True,Cysteamine-S-Phosphate,phosphate & sulphur,"P-Source, organic",#,#,,,
+PM04_D04,True,Phospho-L-Arginine,phosphate & sulphur,"P-Source, organic",argp,EX_argp_e,,,
+PM04_D05,True,O-Phospho-D-Serine,phosphate & sulphur,"P-Source, organic",pser__D,EX_pser__D_e,,,
+PM04_D06,True,O-Phospho-L-Serine,phosphate & sulphur,"P-Source, organic",pser__L,EX_pser__L_e,,,
+PM04_D07,True,O-Phospho-L-Threonine,phosphate & sulphur,"P-Source, organic",thrp,EX_thrp_e,,,
+PM04_D08,True,Uridine 2`-Monophosphate,phosphate & sulphur,"P-Source, organic",#,EX_MNXM13238_e,,,
+PM04_D09,True,Uridine 3`-Monophosphate,phosphate & sulphur,"P-Source, organic",3ump,EX_3ump_e,True,True,True
+PM04_D10,True,Uridine 5`-Monophosphate,phosphate & sulphur,"P-Source, organic",ump,EX_ump_e,True,True,True
+PM04_D11,True,"Uridine 2`,3`-Cyclic Monophosphate",phosphate & sulphur,"P-Source, organic",23cump,EX_23cump_e,True,True,True
+PM04_D12,True,"Uridine 3`,5`-Cyclic Monophosphate",phosphate & sulphur,"P-Source, organic",#,#,,,
+PM04_E01,True,O-Phospho-D-Tyrosine,phosphate & sulphur,"P-Source, organic",tyrp,EX_tyrp_e,,,
+PM04_E02,True,O-Phospho-L-Tyrosine,phosphate & sulphur,"P-Source, organic",tyrp,EX_tyrp_e,,,
+PM04_E03,True,Phosphocreatine,phosphate & sulphur,"P-Source, organic",pcreat,EX_pcreat_e,,,
+PM04_E04,True,Phosphoryl Choline,phosphate & sulphur,"P-Source, organic",cholp,EX_cholp_e,,,
+PM04_E05,True,O-Phosphoryl-Ethanolamine,phosphate & sulphur,"P-Source, organic",ethamp,EX_ethamp_e,,,
+PM04_E06,False,Phosphono Acetic acid,phosphate & sulphur,"P-Source, organic",ppac,EX_ppac_e,,,
+PM04_E07,False,2-Aminoethyl Phosphonic acid,phosphate & sulphur,"P-Source, organic",2ameph,EX_2ameph_e,,,
+PM04_E08,False,Methylene Diphosphonic acid,phosphate & sulphur,"P-Source, organic",#,#,,,
+PM04_E09,True,Thymidine 3`-Monophosphate,phosphate & sulphur,"P-Source, organic",#,#,,,
+PM04_E10,True,Thymidine 5`-Monophosphate,phosphate & sulphur,"P-Source, organic",dtmp,EX_dtmp_e,True,True,True
+PM04_E11,True,Inositol Hexaphosphate,phosphate & sulphur,"P-Source, organic",minohp,EX_minohp_e,,,
+PM04_E12,True,"Thymidine 3`,5`-Cyclic Monophosphate",phosphate & sulphur,"P-Source, organic",#,#,,,
+PM04_F01,False,Negative Control,phosphate & sulphur,"S-Source, Negative control",#,#,,,
+PM04_F02,False,Sulfate,phosphate & sulphur,"S-Source, inorganic",so4,EX_so4_e,True,True,True
+PM04_F03,False,Thiosulfate,phosphate & sulphur,"S-Source, inorganic",tsul,EX_tsul_e,,,
+PM04_F04,False,Tetrathionate,phosphate & sulphur,"S-Source, inorganic",tet,EX_tet_e,,,
+PM04_F05,False,Thiophosphate,phosphate & sulphur,"S-Source, inorganic",#,#,,,
+PM04_F06,False,Dithiophosphate,phosphate & sulphur,"S-Source, inorganic",#,#,,,
+PM04_F07,False,L-Cysteine,phosphate & sulphur,"S-Source, organic",cys__L,EX_cys__L_e,False,False,False
+PM04_F08,False,D-Cysteine,phosphate & sulphur,"S-Source, organic",cys__D,EX_cys__D_e,,,
+PM04_F09,False,Cys-Gly,phosphate & sulphur,"S-Source, organic",cys_gly__L,EX_cys_gly__L_e,,,
+PM04_F10,False,L-Cysteic acid,phosphate & sulphur,"S-Source, organic",Lcyst,EX_Lcyst_e,,,
+PM04_F11,False,Cysteamine,phosphate & sulphur,"S-Source, organic",cysam,EX_cysam_e,,,
+PM04_F12,False,L-Cysteine Sulfinic acid,phosphate & sulphur,"S-Source, organic",3sala,EX_3sala_e,,,
+PM04_G01,False,N-Acetyl-L-Cysteine,phosphate & sulphur,"S-Source, organic",CE1310,EX_CE1310_e,,,
+PM04_G02,False,S-Methyl-L-Cysteine,phosphate & sulphur,"S-Source, organic",#,#,,,
+PM04_G03,False,Cystathionine,phosphate & sulphur,"S-Source, organic",cyst__L,EX_cyst__L_e,,,
+PM04_G04,False,Lanthionine,phosphate & sulphur,"S-Source, organic",lanth,EX_lanth_e,,,
+PM04_G05,False,Glutathione,phosphate & sulphur,"S-Source, organic",gthrd,EX_gthrd_e,,,
+PM04_G06,False,DL-Ethionine,phosphate & sulphur,"S-Source, organic",#,EX_MNXM17589_e,,,
+PM04_G07,False,L-Methionine,phosphate & sulphur,"S-Source, organic",met__L,EX_met__L_e,False,False,False
+PM04_G08,False,D-Methionine,phosphate & sulphur,"S-Source, organic",met__D,EX_met__D_e,,,
+PM04_G09,False,Gly-Met,phosphate & sulphur,"S-Source, organic",gly_met__L,EX_gly_met__L_e,,,
+PM04_G10,False,"N-Acetyl-D,L-Methionine",phosphate & sulphur,"S-Source, organic",C02712,EX_C02712_e,,,
+PM04_G11,False,L-Methionine Sulfoxide,phosphate & sulphur,"S-Source, organic",metsox_S__L,EX_metsox_S__L_e,,,
+PM04_G12,False,L-Methionine Sulfone,phosphate & sulphur,"S-Source, organic",#,#,,,
+PM04_H01,False,L-Djenkolic acid,phosphate & sulphur,"S-Source, organic",djenk,EX_djenk_e,,,
+PM04_H02,False,Thiourea,phosphate & sulphur,"S-Source, organic",#,#,,,
+PM04_H03,False,1-Thio-b-D-Glucose,phosphate & sulphur,"S-Source, organic",#,#,,,
+PM04_H04,False,DL-Lipoamide,phosphate & sulphur,"S-Source, organic",lpam,EX_lpam_e,,,
+PM04_H05,False,Taurocholic acid,phosphate & sulphur,"S-Source, organic",tchola,EX_tchola_e,,,
+PM04_H06,False,Taurine,phosphate & sulphur,"S-Source, organic",taur,EX_taur_e,False,False,False
+PM04_H07,False,Hypotaurine,phosphate & sulphur,"S-Source, organic",hyptaur,EX_hyptaur_e,,,
+PM04_H08,False,p-Aminobenzene Sulfonic acid,phosphate & sulphur,"S-Source, organic",4abz,EX_4abz_e,,,
+PM04_H09,False,Butane Sulfonic acid,phosphate & sulphur,"S-Source, organic",butso3,EX_butso3_e,,,
+PM04_H10,False,2-Hydroxyethane Sulfonic acid,phosphate & sulphur,"S-Source, organic",isetac,EX_isetac_e,,,
+PM04_H11,False,Methane Sulfonic acid,phosphate & sulphur,"S-Source, organic",mso3,EX_mso3_e,,,
+PM04_H12,False,Tetramethylene Sulfone,phosphate & sulphur,"S-Source, organic",#,#,,,
