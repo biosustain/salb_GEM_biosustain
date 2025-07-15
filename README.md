@@ -1,9 +1,8 @@
-# Salb-GEM-Biosustain Metabolic Model  
-**genome-scale metabolic model of _Streptomyces albus_ J1074**  
+# Salb-GEM-v1.1(Biosustain): Genome-scale metabolic model of _Streptomyces albus_ J1074**  
 
 
 ## Description  
-Salb-GEM-Biosustain is a genome-scale metabolic model (GEM) reconstructed for **_Streptomyces albus_ J1074**, based on original version of Salb-GEM and phenomics data from [DTU Biosustain](https://www.biosustain.dtu.dk/). This model enables in silico simulations of metabolic fluxes under diverse conditions, supporting applications in:  
+Salb-GEM-v1.1(Biosustain) is a genome-scale metabolic model (GEM) reconstructed for **_Streptomyces albus_ J1074**, based on original version of Salb-GEM and phenomics data from [DTU Biosustain](https://www.biosustain.dtu.dk/). This model enables in silico simulations of metabolic fluxes under diverse conditions, supporting applications in:  
 - 🧬 **Systems biology** (multi-omics integration, phenotype prediction)  
 - 🧪 **Biotechnology** (strain engineering, substrate utilization)  
 - 🧠 **Basic research** (gene essentiality, metabolic pathway analysis)  
@@ -21,8 +20,8 @@ If using XXX in publications, cite:
 | Property               | Value       | Description                                  |  
 |------------------------|-------------|----------------------------------------------|  
 | **Taxonomy**           | [salb](https://www.genome.jp/dbget-bin/www_bget?gn:salb)   |  _Streptomyces albus_ J1074                     |  
-| **Latest Update**      | 2025-07-10  |                       |  
-| **Version**            | 1.0.2       |                        |  
+| **Latest Update**      | 2025-07-13  |                       |  
+| **Version**            | 1.1       |                        |  
 | **Reactions**          | 2274       |                   |  
 | **Metabolites**        | 1888       |                              |  
 | **Genes**              | 1405       |               |  
@@ -32,13 +31,13 @@ If using XXX in publications, cite:
 ## Installation & Usage  
 ### Obtaining the Model  
 ```bash  
-git clone https://github.com/yourusername/Salb-GEM-Biosustain.git
+git clone https://github.com/biosustain/Salb-GEM-Biosustain.git
 ```
 
 ### Python (cobrapy):
 ```python
 from cobra.io import load_json_model  
-model = load_json_model()  
+model = load_json_model("./model/Salb-GEM-v1.1(Biosustain).json")  
 ```
 
 ## Model Files
@@ -47,10 +46,18 @@ root
 ├── model
 │   └── Salb-GEM-Biosustain.xml: The metabolic model in SBML format
 │   └── Salb-GEM-Biosustain.yml: The metabolic model in YAML format
-│   └── Salb-GEM-Biosustain.yml: The metabolic model in JSON format
+│   └── Salb-GEM-Biosustain.json: The metabolic model in JSON format
 │   └── Salb-GEM-Biosustain.mat: The metabolic model in MatLab format
 └── notebooks: Model curation workflow
+│   └── 1.phenomics: Create evaluation metrics using phenomics data
+│   └── 2.gapfilling: Gapfill Salb-GEM model using various gapfilling techniques
+│   └── 3.pathway_engineering: Engineer PTA pathway into the gapfilled Salb-GEM
+│   └── 4.medium_optimization: Using engineered PTA pathway model for medium optimization
+│   └── 5.paper: Figure creation for publication
 └── data:  External Data used for gapfilling and manual curation
+│   └── external: Genomics scale models and name matching files for gapfilling
+│   └── interim: Files generated from gapfilling
+│   └── raw: Pheomics and fermentation data
 ```
 
 ## Validation
