@@ -9,11 +9,6 @@ Salb-GEM-v1.1(Biosustain) is a genome-scale metabolic model (GEM) reconstructed 
 
 
 ## Citation  
-If using XXX in publications, cite:  
-1. **The original methodology paper**:  
-   > Author A. et al. (Year). *Title*. Journal. DOI: ...  
-2. **This specific model version**:  
-   > [Repository Name]. (Year). Version X.X.X. Zenodo. [![DOI](https://zenodo.org/badge/DOI/...)](https://doi.org/...)  
 
 
 ## Model Overview  
